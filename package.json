@@ -1,0 +1,20 @@
+{
+	"name": "bone-act-sass",
+	"version": "0.0.1",
+	"description": "sass compiler for bone",
+	"main": "index.js",
+	"keywords": ["sass", "bone-act-sass"],
+	"author": {
+		"name": "jansesun",
+		"email": "jansesun2113@gmail.com",
+		"web": "https://github.com/jansesun"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jansesun/bone-act-sass.git"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"node-sass": "~3.2.0"
+	}
+}
