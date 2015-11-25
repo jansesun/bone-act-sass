@@ -1,4 +1,6 @@
 # bone-act-sass
+[![NPM version](https://img.shields.io/npm/v/bone-act-sass.svg?style=flat)](https://npmjs.org/package/bone-act-sass)
+[![NPM downloads](http://img.shields.io/npm/dm/bone-act-sass.svg?style=flat)](https://npmjs.org/package/bone-act-sass)
 > bone的sass处理器
 
 ### 安装及使用
